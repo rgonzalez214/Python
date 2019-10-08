@@ -2,5 +2,5 @@
 <ol>
   <li>unixGuessNum is the main class</li>
   <li>save_to_output_file has the function to save to a text file</li>
-  <li>generate_random_number contains teh function that generates a random value between -100 and 100</li>
+  <li>generate_random_number contains the function that generates a random integer value between -100 and 100</li>
 </ol>
