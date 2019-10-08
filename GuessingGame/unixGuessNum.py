@@ -1,7 +1,5 @@
 # Rolando Gonzalez
-# Course:       Unix 3377.0w5
-# Instructor:   Meghana Satpute
-# assignment:   Homework 6
+# Course:       Unix 3377
 
 
 # Import the save_to_out_file module so that I can make the function call to print ot file
